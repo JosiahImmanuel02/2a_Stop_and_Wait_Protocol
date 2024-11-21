@@ -11,6 +11,8 @@ To write a python program to perform stop and wait protocol
 ## PROGRAM
 ## Client.py
 ~~~
+
+
 import socket
 s=socket.socket()
 s.bind(('localhost', 8000))
